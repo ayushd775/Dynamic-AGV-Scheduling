@@ -1,0 +1,16 @@
+Total Execution Time: 946.00 minutes
+
+Average Delivery Time by Priority:
+Priority 1: 21.25 minutes
+Priority 2: 216.74 minutes
+Priority 3: 542.62 minutes
+
+AGV Charge Counts:
+AGV 1: 30 charges
+AGV 2: 13 charges
+AGV 3: 2 charges
+
+Final AGV Positions and Battery:
+AGV 1: Node 5, Battery: 18.0 minutes (40.0%)
+AGV 2: Node 7, Battery: 25.0 minutes (55.6%)
+AGV 3: Node 3, Battery: 25.0 minutes (55.6%)
